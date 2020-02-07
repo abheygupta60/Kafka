@@ -3,7 +3,7 @@ My work with Kafka in Java language
 
 Step 1.) Execute Following script
 
-	a.) sh SetupKafka.sh
+	a.) sh setupKafka.sh
 
 OR
 
